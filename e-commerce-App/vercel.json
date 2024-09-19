@@ -1,0 +1,25 @@
+{
+      "routes":[
+        {
+            "src":"/",
+            "dest":"/"
+        },
+        {
+            "src":"/products/:id",
+            "dest":"/"
+        },
+        {
+            "src":"/products/:id/product/:id",
+            "dest":"/"
+        },
+        {
+            "src":"/products/:id/CartPage",
+            "dest":"/"
+        },
+        {
+            "src":"/Authentication",
+            "dest":"/"
+        }
+
+      ]
+}
